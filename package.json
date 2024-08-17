@@ -1,0 +1,15 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "Use node",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Kritbovorn Taweeyossak",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^23.1.0"
+  }
+}
